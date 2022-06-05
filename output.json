@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "ID": "1",
+      "Name": "Ricah",
+      "Final Average": 67.86
+    },
+    {
+      "ID": "2",
+      "Name": "Ian",
+      "Final Average": 64.42
+    },
+    {
+      "ID": "3",
+      "Name": "Choco",
+      "Final Average": 64.42
+    }
+  ]
+}
